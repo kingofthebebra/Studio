@@ -1,0 +1,16 @@
+:root {
+    /* Змінні для сторінки WebStudio */
+    --title-color: #2196F3;
+    --text-color: #212121;
+    --small_text-color: #757575;
+    --white-color: #FFFFFF;
+    --bg-color: #2F303A;
+    /* Змінні для сторінки Portfolio */
+    --unhover_button-color: #F5F4FA;
+}
+a{
+    color: var(--title-color);
+}
+p{
+    color: var(--title-color);
+}
